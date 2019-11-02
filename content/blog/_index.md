@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Incontri
 menu:
   main:
-    name: Blog
+    name: Incontri
     weight: 2
 layout: blog
 ---
+
