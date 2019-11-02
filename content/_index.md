@@ -2,9 +2,7 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Il gruppo facebook campano per i possessori della Fiat 127
     section_id: hero
     type: heroblock
   - actions:
@@ -22,7 +20,7 @@ sections:
 
       Se sei della Campania e possiedi una Fiat 127 [unisciti anche tu al
       gruppo](https://www.facebook.com/groups/fiat127campania)!
-    image: /images/127campania_sticker-803.png
+    image: /images/127campania_sticker-350.png
     section_id: about
     title: Il gruppo
     type: contentblock
