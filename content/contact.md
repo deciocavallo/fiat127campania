@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Contatti
 menu:
   main:
-    name: Contact
+    name: Contatti
     weight: 5
 layout: contact
 ---
-
-To get in touch fill the form below.
+Gruppo facebook [Fiat 127 Campania](https://www.facebook.com/groups/fiat127campania/).\
+Se vuoi inviarmi un messaggio compila il form sottostante.
