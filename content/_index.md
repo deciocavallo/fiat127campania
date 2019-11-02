@@ -11,7 +11,7 @@ sections:
         url: 'https://www.facebook.com/groups/fiat127campania'
     component: content_block.html
     content: >-
-      <center>![](/images/127campania_sticker-350.png)</center>
+      <center>!\[](/images/127campania_sticker-350.png)</center>
 
 
       Il [gruppo facebook](https://www.facebook.com/groups/fiat127campania) è
@@ -22,7 +22,7 @@ sections:
       raduni in giro per la Campania e l'Italia.
 
 
-      Se sei della Campania e possiedi una Fiat 127 [unisciti anche tu al
+      Se abiti in Campania e possiedi una Fiat 127 [unisciti anche tu al
       gruppo](https://www.facebook.com/groups/fiat127campania)!
     image: ''
     section_id: about
