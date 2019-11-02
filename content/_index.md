@@ -29,12 +29,12 @@ sections:
     title: Il gruppo
     type: contentblock
   - actions:
-      - label: View Blog
+      - label: Gli incontri
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 4
     section_id: recent-posts
-    title: Recent Posts
+    title: Incontri recenti
     type: postsblock
 menu:
   main:
