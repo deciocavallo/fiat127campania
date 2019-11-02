@@ -11,7 +11,7 @@ sections:
         url: 'https://www.facebook.com/groups/fiat127campania'
     component: content_block.html
     content: >-
-      ![](/images/127campania_sticker-350.png)
+      <center>![](/images/127campania_sticker-350.png)</center>
 
 
       Il [gruppo facebook](https://www.facebook.com/groups/fiat127campania) è
