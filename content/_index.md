@@ -4,12 +4,16 @@ sections:
   - component: hero_block.html
     content: Il gruppo facebook campano per i possessori della Fiat 127
     section_id: hero
+    title: Benvenuto
     type: heroblock
   - actions:
       - label: Unisciti al gruppo
         url: 'https://www.facebook.com/groups/fiat127campania'
     component: content_block.html
     content: >-
+      ![](/images/127campania_sticker-350.png)
+
+
       Il [gruppo facebook](https://www.facebook.com/groups/fiat127campania) è
       nato per mettere in contatto tutti i possessori campani della gloriosa
       Fiat 127. \
@@ -20,7 +24,7 @@ sections:
 
       Se sei della Campania e possiedi una Fiat 127 [unisciti anche tu al
       gruppo](https://www.facebook.com/groups/fiat127campania)!
-    image: /images/127campania_sticker-350.png
+    image: ''
     section_id: about
     title: Il gruppo
     type: contentblock
