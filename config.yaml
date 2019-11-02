@@ -1,20 +1,20 @@
 title: Stackbit Fresh Theme
 baseURL: /
 params:
-  layout_style: overflow
-  palette: blue
-  header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
-    profile_img: images/avatar.png
-    bg: dark
-    has_nav: true
-    has_social: true
   footer:
     content: '&copy; All rights reserved.'
     links:
-      - text: Made with Stackbit
+      - new_window: true
+        text: Made with Stackbit
         url: 'https://www.stackbit.com'
-        new_window: true
+  header:
+    bg: light
+    has_nav: true
+    has_social: true
+    profile_img: /images/127campania_sticker-803.png
+    tagline: gruppo campano dei possessori di Fiat 127
+    title: Fiat 127 Campania
+  layout_style: overflow
+  palette: blue
 disableKinds:
   - RSS
