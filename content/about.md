@@ -1,6 +1,6 @@
 ---
 title: La Fiat 127
-subtitle: This is a short page about me and my work.
+subtitle: la storia della Fiat 127
 img_path: ''
 menu:
   main:
