@@ -15,6 +15,6 @@ params:
     tagline: gruppo campano dei possessori di Fiat 127
     title: Fiat 127 Campania
   layout_style: overflow
-  palette: violet
+  palette: orange
 disableKinds:
   - RSS
