@@ -1,35 +1,43 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    section_id: hero
-    component: hero_block.html
+  - component: hero_block.html
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-  - type: contentblock
-    title: About
-    section_id: about
-    actions:
-      - label: Contact Me
-        url: /contact
+    section_id: hero
+    type: heroblock
+  - actions:
+      - label: Unisciti al gruppo
+        url: 'https://www.facebook.com/groups/fiat127campania'
     component: content_block.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-  - type: postsblock
-    title: Recent Posts
-    section_id: recent-posts
-    actions:
+      Il [gruppo facebook](https://www.facebook.com/groups/fiat127campania) è
+      nato per mettere in contatto tutti i possessori campani della gloriosa
+      Fiat 127. \
+
+      Lo scopo è quello di conoscerci, scambiarsi pareri, organizzarsi per
+      raduni in giro per la Campania e l'Italia.
+
+
+      Se sei della Campania e possiedi una Fiat 127 [unisciti anche tu al
+      gruppo](https://www.facebook.com/groups/fiat127campania)!
+    image: /images/127campania_sticker-803.png
+    section_id: about
+    title: Il gruppo
+    type: contentblock
+  - actions:
       - label: View Blog
         url: blog/index.html
     component: posts_block.html
     num_posts_displayed: 4
+    section_id: recent-posts
+    title: Recent Posts
+    type: postsblock
 menu:
   main:
     name: Home
     weight: 1
 layout: home
 ---
+
