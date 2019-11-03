@@ -117,8 +117,4 @@ Nel 1983 dopo l'arrivo della Uno, tutti i motori benzina si unificarono nell'uni
 
 Nel 1986 fiat decise di cessare la produzione, anche se la domanda che continuava a essere incessante per via degli innumerevoli estimatori, continuando a produrre solamente la Uno sulla fascia delle utilitarie.
 
-
-
-
-
-_testo tratto da_ [_www.fiat127club.it_](www.fiat127club.it)__
+_testo tratto da_ [_www.fiat127club.it_](http://www.fiat127club.it)__
