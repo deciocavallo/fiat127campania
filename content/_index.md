@@ -16,7 +16,7 @@ sections:
 
       Il [gruppo facebook](https://www.facebook.com/groups/fiat127campania) è
       nato per mettere in contatto tutti i possessori campani della gloriosa
-      Fiat 127. \
+      [Fiat 127](la-storia-della-fiat-127/). \
 
       Lo scopo è quello di conoscerci, scambiarsi pareri, organizzarsi per
       raduni in giro per la Campania e l'Italia.
