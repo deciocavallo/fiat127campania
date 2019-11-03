@@ -4,8 +4,8 @@ subtitle: la storia della Fiat 127
 img_path: ''
 menu:
   main:
-    identifier: fiat-127-la-storia
-    name: La Fiat 127
+    identifier: ''
+    name: fiat-127-la-storia
     weight: 4
 layout: page
 ---
