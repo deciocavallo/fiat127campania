@@ -6,11 +6,9 @@ date: 2019-06-15T22:00:00.000Z
 thumb_img_path: /images/img_5125.jpg
 layout: post
 ---
-Splendida Fiat 127 Giannini NP del 1973.
+Splendida Fiat 127 Giannini NP del 1973 dell'amico Luigi presente a Maddaloni il 16 giugno 2019.
 
-Versione elaborata dal noto preparatore romano. 
-
-La Giannini 127 NP si distingue esteticamente dalle versioni “normali” della Fiat 127 per la mascherina con lo stemma dell’azienda laziale. Negli interni spicca invece il nuovo volante. 
+E' la versione elaborata dal noto preparatore romano. La Giannini 127 NP si distingue esteticamente dalle versioni “normali” della Fiat 127 per la mascherina con lo stemma dell’azienda laziale. Negli interni spicca invece il nuovo volante. 
 
 Era possibile personalizzare ulteriormente la vettura con cerchi in lega Cromodora e con una strumentazione più ricca completa di tachimetro, contagiri, termometro acqua, manometro olio e indicatore livello benzina. 
 
