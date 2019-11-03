@@ -5,7 +5,7 @@ img_path: ''
 menu:
   main:
     identifier: ''
-    name: fiat-127-la-storia
+    name: La Fiat 127
     weight: 4
 layout: page
 ---
