@@ -3,7 +3,7 @@ title: Incontri
 menu:
   main:
     name: Incontri
-    weight: 2
+    weight: 3
 layout: blog
 ---
 
