@@ -4,7 +4,7 @@ menu:
   main:
     identifier: la-fiat-127
     name: La Fiat 127
-    weight: 3
+    weight: 2
 layout: page
 ---
 ## La 1a serie (1971 - 1977)
